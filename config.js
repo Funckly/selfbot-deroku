@@ -34,7 +34,7 @@
 
  */
 
-const token = "NjM2NjIxOTAxOTIxMzg2NTI3.XjfRsA.8IDkGmm4jyJX346RyfPI06xV7cE"//ton token
+const token = ""//ton token
 const prefix = "$"//ton prefix
 const premium = "" //ton code premium si tu en as un. notez que les clés ne sont pas partageable et résulteront à l'effacement de ces dernières.
 
